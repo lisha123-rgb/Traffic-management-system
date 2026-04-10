@@ -93,13 +93,11 @@ python yolo_detection.py
 * Active green signal lane
 
 ---
+## 🚀 New Features Added
 
-## ⚠️ Limitations
-
-* Lane detection is based on simple screen division (not real road lanes)
-* Performance depends on video quality
-* No tracking (same vehicle may be counted multiple times across frames)
-
+- Timer-based traffic signal control
+- Vehicle class filtering (YOLOv8)
+- Line crossing vehicle counter
 ---
 
 ## 🚀 Future Improvements
